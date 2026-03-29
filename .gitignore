@@ -1,0 +1,4 @@
+.env
+cookies.json
+seen_posts.db
+__pycache__/
